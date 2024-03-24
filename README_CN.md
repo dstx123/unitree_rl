@@ -63,7 +63,7 @@ add_definitions(-DADAPT_MODEL_PATH="${ADAPT_MODEL_PATH}")
 
 在`unitree_guide\unitree_guide\src\FSM\State_RL.cpp`中修改相应的模型加载方式：`void State_RL::_loadPolicy()`和`void State_RL::_action_compute()`
 
-### 输入输出
+#### 输入输出
 
 请检查输入输出变量的顺序及相关参数。主要见`unitree_guide\unitree_guide\src\FSM\State_RL.cpp`和`C:\Users\user\Desktop\unitree_rl\src\unitree_guide\unitree_guide\include\FSM\State_RL.h`
 

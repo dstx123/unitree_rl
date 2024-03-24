@@ -63,13 +63,13 @@ Here you can customize and add your own models.
 
 Modify the corresponding model loading method in `unitree_guide\unitree_guide\src\FSM\State_RL.cpp`. Please pay attention to the function `void State_RL::_loadPolicy()` and `void State_RL::_action_compute()`
 
-### Input and output variables
+#### Input and output variables
 
 Please check the order of input and output variables and related parameters. Mainly seen in `unitree_guide\unitree_guide\src\FSM\State_RL.cpp` and `C:\Users\user\Desktop\unitree_rl\src\unitree_guide\unitree_guide\include\FSM\State_RL.h`
 
 ## Running
 
-### simulation
+### Simulation
 
 start gazebo:
 
