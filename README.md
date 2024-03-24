@@ -65,7 +65,7 @@ Modify the corresponding model loading method in `unitree_guide\unitree_guide\sr
 
 #### Input and output variables
 
-Please check the order of input and output variables and related parameters. Mainly seen in `unitree_guide\unitree_guide\src\FSM\State_RL.cpp` and `C:\Users\user\Desktop\unitree_rl\src\unitree_guide\unitree_guide\include\FSM\State_RL.h`
+Please check the order of input and output variables and related parameters. Mainly seen in `unitree_guide\unitree_guide\src\FSM\State_RL.cpp` and `unitree_guide\unitree_guide\include\FSM\State_RL.h`
 
 ## Running
 
