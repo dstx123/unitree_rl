@@ -4,6 +4,8 @@
 
 Quadruped robot reinforcement learning deployment method based on the unitree_guide state machine. The model trained through Isaac gym is successfully simulated in gazebo and deployed on the real robot. By modifying `CMakeLists.txt`, the switch between simulation and deployment can be achieved.
 
+Considering the file size, only `go1_description` is reserved in `src/unitree_ros/robots`. If you need to use other robots, please add the urdf file yourself.
+
 A trained weight file for Unitree Go1 walking on flat ground is provided.
 
 If this repository is helpful to you, please help click stars, thank you.

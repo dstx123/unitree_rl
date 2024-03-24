@@ -4,6 +4,8 @@
 
 基于unitree_guide状态机的四足机器人强化学习部署方案。将通过Isaac gym训练的模型成功在gazebo中实现仿真，并完成真机部署。通过修改`CMakeLists.txt`即可实现仿真与部署的切换。
 
+考虑到文件大小，仅保留了go1的urdf文件，如需使用其他机器人，请在`src/unitree_ros/robots`中自行添加。
+
 提供了一个训练好的宇树Go1平地行走的权重文件。
 
 如果该项目对你有帮助，请帮忙点个star，谢谢。
