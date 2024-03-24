@@ -85,6 +85,8 @@ source devel/setup.bash
 sudo ./devel/lib/unitree_guide/junior_ctrl
 ```
 
+Press the key `2` and the robot will stand up. Then press the key `4`, the robot will enter the reinforcement learning state machine. After the robot stands firm, control the movement through the keyboard.
+
 In the terminal, you can use the 'w' 's' 'a' 'd' keys to control the robot's x and y-axis speed, and the 'j' 'l' keys to control the robot's rotation.
 
 ### Physical deployment

@@ -85,6 +85,8 @@ source devel/setup.bash
 sudo ./devel/lib/unitree_guide/junior_ctrl
 ```
 
+按下`2`键，机器人将站起来。然后按`4`键，机器人进入强化学习状态机，待机器人站稳后通过键盘控制运动。
+
 在终端中可以通过'w' 's' 'a' 'd'键控制机器人x和y轴速度，通过'j' 'l'键控制机器人旋转。
 
 ### 实物部署
