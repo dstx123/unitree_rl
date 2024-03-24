@@ -109,8 +109,6 @@ Start the robot, and after the robot stands up, run this in the terminal:
 sudo ./devel/lib/unitree_guide/junior_ctrl
 ```
 
-此时，狗会坐下，进入passive状态。按`L2+A`，狗站起来。然后按'start'，此时，狗进入强化学习状态机，通过左摇杆控制机器人的x和y轴速度，通过右摇杆控制机器人旋转。
-
 At this time, the robot will sit down and enter the passive state. Press `L2+A`, the robot will stands up. Then press 'start'. At this time, the robot enters the reinforcement learning state machine, controlling the robot's x- and y-axis speeds through the left joystick, and controlling the robot's rotation through the right joystick.
 
 ## Acknowledgments
